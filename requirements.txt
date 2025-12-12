@@ -1,0 +1,3 @@
+kivy
+
+# This app performs only local validation of combo format. No network requests.
